@@ -1,0 +1,48 @@
+.spinnerContainer {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.container {
+  padding: 1rem 2rem;
+  background-color: rgb(38, 107, 235);
+  color: white;
+}
+
+.rowContainer {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.rowContainer p {
+  margin: 8px 0px !important;
+}
+
+.textContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.buttonContainer {
+  padding-top: 10px;
+  width: 100%;
+}
+
+.contentContainer {
+  width: 100%;
+}
+
+.buttonContentContainer {
+  width: 100%;
+}
+
+.infoContainer {
+  display: flex;
+  justify-content: center;
+  column-gap: 10px;
+  margin: 20px 0px;
+}

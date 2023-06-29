@@ -1,0 +1,39 @@
+.container {
+  padding: 1rem 2rem;
+  background-color: rgb(38, 107, 235);
+  color: white;
+}
+
+.rowContainer {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.rowContainer p {
+  margin: 8px 0px !important;
+}
+
+.textContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.contentContainer {
+  width: 100%;
+  padding: 1rem 2rem;
+}
+
+.spinnerContainer {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.logoutButtonnContainer {
+  display: flex;
+  align-items: center;
+}

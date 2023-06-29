@@ -1,0 +1,19 @@
+.contentContainer {
+  padding: 1rem 2rem;
+  width: 100%;
+}
+
+.colContainer {
+  display: flex !important;
+  column-gap: 10px;
+}
+
+.colContainer h4 {
+  white-space: nowrap;
+  margin: 2px 0 !important;
+}
+
+.colContainer input {
+  padding: 0px 5px;
+  width: 200px;
+}

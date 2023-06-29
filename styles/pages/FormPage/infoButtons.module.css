@@ -1,0 +1,13 @@
+.container {
+  padding: 8px 12px;
+  border-radius: 10px;
+  color: white;
+}
+
+.red {
+  background-color: rgb(255, 0, 0);
+}
+
+.green {
+  background-color: green;
+}
